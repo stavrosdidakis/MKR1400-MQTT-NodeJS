@@ -9,6 +9,4 @@
 #define SECRET_GPRS_LOGIN    ""    // replace with your GPRS login
 #define SECRET_GPRS_PASSWORD "" // replace with your GPRS password
 
-#define MQTT_BROKER          "46.101.82.167"
-//char server[] = "broker.i-dat.org";
-
+#define MQTT_BROKER          "xx.101.xx.167"
