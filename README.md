@@ -16,8 +16,7 @@ For the needs of this project, the following hardware components were used:
 In addition to this, a custom 3D-printed object was made to host all components together (which you can find in **models/MKRGSM-3DModel.zip**). The device is mobile, and can be used for a sufficient period of time on its own. Following are photos of the finalised device.
 
 <p align="center">
-<img alt="abramovic" src="assets/gps-out.jpg" width="480" />
-<img alt="abramovic" src="assets/gps-in.jpg" width="480" />
+<img alt="abramovic" src="assets/gps.png" width="480" />
 </p>
 
 ---
