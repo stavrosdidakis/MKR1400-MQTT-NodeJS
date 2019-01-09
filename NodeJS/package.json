@@ -1,0 +1,20 @@
+{
+  "name": "mqtt-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "express": "4.16.2",
+    "http": "0.0.0",
+    "mqtt": "^2.15.3",
+    "socket.io": "^2.0.4",
+    "utf-8-validate": "4.0.0",
+    "ws": "^4.0.0"
+  },
+  "engines": {
+    "node": "6.2.0"
+  }
+}
