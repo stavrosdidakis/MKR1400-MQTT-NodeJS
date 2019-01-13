@@ -262,7 +262,7 @@ console.log("Node is running on port 3000...");
 
 //Setup variables for the MQTT communication
 var MQTT_TOPIC = "dat503/client1";
-var MQTT_ADDR = "mqtt://xxxxxx.org:80";
+var MQTT_ADDR = "mqtt://broker.xxx.org:80";
 var MQTT_PORT = 80;
 //Connect the client to the broker's address
 var client  = mqtt.connect(MQTT_ADDR);
